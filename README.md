@@ -1,2 +1,0 @@
-# WhitePaper
-White Paper repository
